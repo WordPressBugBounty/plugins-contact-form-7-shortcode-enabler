@@ -2,12 +2,12 @@
 Contributors: TZ Media
 Tags: Contact Form 7, CF7, Shortcode, Shortcodes
 Requires at least: 2.6.0
-Tested up to: 4.9.4
+Tested up to: 6.6.2
 Stable tag: 1.1
 License: GPLv2 or later.
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin enables the usage of external schrtcodes inside Contact Form 7 Forms.
+This plugin enables the usage of external shortcodes inside Contact Form 7 Forms.
 
 == Description ==
 Many themes, as well as other plugins, provide shortcodes for layout options like multi-column-layouts, tabs, etc.
